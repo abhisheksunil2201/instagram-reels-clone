@@ -1,3 +1,5 @@
+Link to app: https://reels-ig-clone-be375.web.app/
+
 ![Screenshot (250)](https://user-images.githubusercontent.com/52904509/92327769-b5cc5e00-f079-11ea-97fb-a6950ce86ba8.png)
 
 The Instagram Reels Clone web app is built using React, HTML, CSS and JavaScript. Firebase has been used for storing the videos and their information, and user information.
